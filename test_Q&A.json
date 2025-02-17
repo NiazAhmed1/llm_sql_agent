@@ -1,0 +1,32 @@
+[
+    {
+        "Question":"How many employees are there?",
+        "Answer":"There are 8 employees in the database"
+    
+    },
+    {
+        "Question":"What is the most popular music genre by number of tracks?",
+        "Answer":"The most popular music genre by number of tracks is Rock, with 1297 tracks."
+    
+    },
+    {
+        "Question":"Find the most expensive track in the database",
+        "Answer":"The most expensive track in the database is 'Hero' with a price of 1.99."
+    
+    },
+    {
+        "Question":"",
+        "Answer":""
+    
+    },
+    {
+        "Question":"",
+        "Answer":""
+    
+    },
+    {
+        "Question":"",
+        "Answer":""
+    
+    }
+]
