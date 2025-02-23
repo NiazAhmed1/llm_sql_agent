@@ -23,6 +23,10 @@ llm_sql_agent/
 
 ## Setup Instructions
 
+### LLM Requirement
+
+This project uses the open LLM **Mistral** via **Ollama**. Ensure that the model is already downloaded on your system. If you prefer to use a different LLM, you can replace `mistral:latest` with another model in `main.py`.
+
 ### 1. Clone the Repository
 
 ```sh
