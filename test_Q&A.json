@@ -15,18 +15,18 @@
     
     },
     {
-        "Question":"",
-        "Answer":""
+        "Question":"Show the number of tracks available in each genre",
+        "Answer":"The number of tracks available in each genre are as follows: Rock (1297), Jazz (130), Metal (374), Pop (48), Hip Hop/Rap (35), R&B/Soul (61), Reggae (58), Classical (74), Electronica/Dance (30), Blues (81), Latin (579), Opera (1), Alternative (40), Alternative & Punk (332), Heavy Metal (28), Sci Fi & Fantasy (26), Science Fiction (13), Soundtrack (43), TV Shows (93), World (28)."
     
     },
     {
-        "Question":"",
-        "Answer":""
+        "Question":"List all the albums by artists with the word ‘black’ in their name",
+        "Answer":"The albums by artists with the word ‘black’ in their name are 'Alcohol Fueled Brewtality Live! [Disc 1]', 'Alcohol Fueled Brewtality Live! [Disc 2]', 'Black Sabbath', 'Black Sabbath Vol. 4 (Remaster)', 'Live [Disc 1]', and 'Live [Disc 2]'."
     
     },
     {
-        "Question":"",
-        "Answer":""
+        "Question":"Find the name and length (in seconds) of all tracks that have lengthbetween 50 and 70 seconds.",
+        "Answer":"The tracks with lengths between 50 and 70 seconds are 'Intro', 'Wasted Reprise', 'Arc', 'Soldier Side - Intro', 'Polícia (Vinheta)', 'Happy Trails', 'Cotidiano N 2', 'Salutations', 'Lamentations of Jeremiah, First Set \\ Incipit Lamentatio', and ('Étude 1, In C Major - Preludio (Presto) - Liszt')."
     
     }
 ]
