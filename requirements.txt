@@ -1,5 +1,4 @@
 langchain
-sqllite
 langchain_community
 langchain_core
 ollama
