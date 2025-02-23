@@ -9,7 +9,6 @@ This project implements an **SQL Agent** using **LangChain** to interact with th
 - **Automated SQL Query Generation**: Converts natural language questions into SQL queries.
 - **Database Interaction**: Queries the Chinook database (SQLite format).
 - **LLM-Based Explanation**: Uses an LLM to explain query results in natural language.
-- **Testing Framework**: Includes predefined questions and expected answers for validation.
 
 ## Repository Structure
 
@@ -63,10 +62,6 @@ The agent can answer questions like:
 ## Testing
 
 The `test_Q&A.json` file contains test cases for validating the agent’s responses. You can extend it to add more test cases.
-
-## License
-
-This project is open-source and available under the **MIT License**.
 
 ---
 
